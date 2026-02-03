@@ -32,6 +32,8 @@ Process of making trained ML models available for real-world applications.
 ### CI/CD
 Automated testing and deployment pipelines.
 
+---
+
 ## 🗄️ Database Management with Python
 
 ### Database
