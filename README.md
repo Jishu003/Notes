@@ -1,6 +1,6 @@
 # Study Notes
 
-## 📘 Program Design Principles
+## ✨ Program Design Principles
 
 ### Modularity
 Breaking a program into smaller independent modules for easier development and debugging.
@@ -31,8 +31,6 @@ Process of making trained ML models available for real-world applications.
 
 ### CI/CD
 Automated testing and deployment pipelines.
-
----
 
 ## 🗄️ Database Management with Python
 
